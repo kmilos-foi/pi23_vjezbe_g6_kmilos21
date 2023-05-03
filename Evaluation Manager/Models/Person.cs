@@ -1,6 +1,6 @@
 ﻿using System;
 
-public class Class1 {
+namespace Evaluation_Manager.Models {
 	public abstract class Person
 	{
 		public int Id { get; set; }
